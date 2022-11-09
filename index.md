@@ -1,5 +1,5 @@
 ---
-👍: Welcome to my blog
+title: "Welcome to my blog"
 ---
 
 # Greg's website
